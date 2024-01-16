@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Justin Baker
 - 👀 I’m interested in geographic informatoin systems
 - 🌱 I’m currently learning various python libraries such as pandas and geopandas
-- 💞️ I’m looking for positions in spatial data analysis
+- 💞️ I’m looking for opportunities in spatial data analysis
 - 📫 How to reach me: baker.jst@gmail.com
 
 <!---
